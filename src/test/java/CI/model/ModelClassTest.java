@@ -13,6 +13,6 @@ public class ModelClassTest {
     
     m.setName("name");
     
-    assertEquals("name_not", m.getName());
+    assertEquals("name", m.getName());
   }
 }
